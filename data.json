@@ -1,0 +1,31 @@
+[
+  {
+    "title": "audio_1",
+    "icon_class": "fa-solid fa-1",
+    "variant" : "success",
+    "description": "i'm a smart store..."
+  },
+  {
+    "title": "audio_2",
+    "icon_class": "fa-solid fa-2",
+    "variant" : "warning",
+    "description": "i'm a smart store..."
+  },
+  {
+    "title": "audio_3",
+    "icon_class": "fa-solid fa-3",
+    "variant" : "danger",
+    "description": "i'm a smart store..."
+  },
+  {
+    "title": "audio_4",
+    "icon_class": "fa-solid fa-4",
+    "description": "i'm a smart store..."
+  }
+  ,
+  {
+    "title": "audio con titulo muy laaarrrgoooooo",
+    "icon_class": "fa-solid fa-4",
+    "description": "i'm a smart store..."
+  }
+]
