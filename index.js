@@ -44,4 +44,5 @@ window.addEventListener('load', () => {
   setGrid(grid)
   setGrid(grid)
   setGrid(grid)
+  setGrid(grid)
 }) 
